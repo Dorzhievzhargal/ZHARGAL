@@ -35,5 +35,4 @@ credit="234-433-44-433"
 for x in range(len(credit)):
     print(credit[x])
 
-n
 
